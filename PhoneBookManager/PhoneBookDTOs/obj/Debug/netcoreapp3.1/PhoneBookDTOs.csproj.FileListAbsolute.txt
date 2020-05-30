@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\bin\Debug\netcoreapp3.1\PhoneBookDTOs.deps.json
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\bin\Debug\netcoreapp3.1\PhoneBookDTOs.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\bin\Debug\netcoreapp3.1\PhoneBookDTOs.pdb
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\obj\Debug\netcoreapp3.1\PhoneBookDTOs.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\obj\Debug\netcoreapp3.1\PhoneBookDTOs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\obj\Debug\netcoreapp3.1\PhoneBookDTOs.AssemblyInfo.cs
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\obj\Debug\netcoreapp3.1\PhoneBookDTOs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\obj\Debug\netcoreapp3.1\PhoneBookDTOs.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDTOs\obj\Debug\netcoreapp3.1\PhoneBookDTOs.pdb

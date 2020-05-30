@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\obj\Debug\netcoreapp3.1\PhoneBookDAL.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\obj\Debug\netcoreapp3.1\PhoneBookDAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\obj\Debug\netcoreapp3.1\PhoneBookDAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\obj\Debug\netcoreapp3.1\PhoneBookDAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\bin\Debug\netcoreapp3.1\PhoneBookDAL.deps.json
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\bin\Debug\netcoreapp3.1\PhoneBookDAL.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\bin\Debug\netcoreapp3.1\PhoneBookModel.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\bin\Debug\netcoreapp3.1\PhoneBookModel.pdb
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\obj\Debug\netcoreapp3.1\PhoneBookDAL.csproj.CopyComplete
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\bin\Debug\netcoreapp3.1\PhoneBookDAL.pdb
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\obj\Debug\netcoreapp3.1\PhoneBookDAL.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookDAL\obj\Debug\netcoreapp3.1\PhoneBookDAL.pdb

@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "IdType": 1,
+    "IdUser": 1,
+    "Deleted": false,
+    "UserNumber": "0692222222",
+    "CreatedAt": "0001-01-01T00:00:00",
+    "User": {
+      "Id": 1,
+      "Name": "Duke",
+      "LastName": "Walker",
+      "Deleted": false,
+      "Numbers": []
+    },
+    "Type": {
+      "Id": 1,
+      "TypeNumber": "Work",
+      "Deleted": false,
+      "Numbers": []
+    }
+  },
+  {
+    "Id": 2,
+    "IdType": 0,
+    "IdUser": 0,
+    "Deleted": false,
+    "UserNumber": null,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "User": {
+      "Id": 1,
+      "Name": "Rick",
+      "LastName": "Ross",
+      "Deleted": false,
+      "Numbers": []
+    },
+    "Type": {
+      "Id": 2,
+      "TypeNumber": "Cellphone",
+      "Deleted": false,
+      "Numbers": []
+    }
+  },
+  {
+    "Id": 3,
+    "IdType": 1,
+    "IdUser": 3,
+    "Deleted": true,
+    "UserNumber": "0692222200",
+    "CreatedAt": "0001-01-01T00:00:00",
+    "User": {
+      "Id": 0,
+      "Name": null,
+      "LastName": null,
+      "Deleted": false,
+      "Numbers": []
+    },
+    "Type": {
+      "Id": 0,
+      "TypeNumber": null,
+      "Deleted": false,
+      "Numbers": []
+    }
+  }
+]

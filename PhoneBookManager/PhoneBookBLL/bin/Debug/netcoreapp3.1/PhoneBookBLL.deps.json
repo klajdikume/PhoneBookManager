@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PhoneBookBLL/1.0.0": {
+        "dependencies": {
+          "PhoneBookDAL": "1.0.0",
+          "PhoneBookDTOs": "1.0.0"
+        },
+        "runtime": {
+          "PhoneBookBLL.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "PhoneBookDAL/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "PhoneBookModel": "1.0.0"
+        },
+        "runtime": {
+          "PhoneBookDAL.dll": {}
+        }
+      },
+      "PhoneBookDTOs/1.0.0": {
+        "runtime": {
+          "PhoneBookDTOs.dll": {}
+        }
+      },
+      "PhoneBookModel/1.0.0": {
+        "runtime": {
+          "PhoneBookModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBookBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "PhoneBookDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoneBookDTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoneBookModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

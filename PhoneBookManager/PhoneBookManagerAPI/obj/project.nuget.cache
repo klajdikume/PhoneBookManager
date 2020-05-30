@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGUtFaaBHHBRlUpdpBc64nTnCXZ2U2Ax/H1vo71lVWKGCQCU65anq0fI6EF32YWkDIxb5bFveiRgekj85rwgjg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\SmartWork\\PhoneBookManager\\PhoneBookManagerAPI\\PhoneBookManagerAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project PhoneBookDTOs is not compatible with netcoreapp3.0 (.NETCoreApp,Version=v3.0). Project PhoneBookDTOs supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "PhoneBookDTOs",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project PhoneBookBLL is not compatible with netcoreapp3.0 (.NETCoreApp,Version=v3.0). Project PhoneBookBLL supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "PhoneBookBLL",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

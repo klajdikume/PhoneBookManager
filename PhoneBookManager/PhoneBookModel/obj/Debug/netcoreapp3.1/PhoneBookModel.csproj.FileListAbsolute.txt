@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\bin\Debug\netcoreapp3.1\PhoneBookModel.deps.json
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\bin\Debug\netcoreapp3.1\PhoneBookModel.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\bin\Debug\netcoreapp3.1\PhoneBookModel.pdb
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\obj\Debug\netcoreapp3.1\PhoneBookModel.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\obj\Debug\netcoreapp3.1\PhoneBookModel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\obj\Debug\netcoreapp3.1\PhoneBookModel.AssemblyInfo.cs
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\obj\Debug\netcoreapp3.1\PhoneBookModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\obj\Debug\netcoreapp3.1\PhoneBookModel.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookModel\obj\Debug\netcoreapp3.1\PhoneBookModel.pdb

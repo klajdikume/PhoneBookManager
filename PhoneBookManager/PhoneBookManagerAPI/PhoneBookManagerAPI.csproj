@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneBookBLL\PhoneBookBLL.csproj" />
+    <ProjectReference Include="..\PhoneBookDTOs\PhoneBookDTOs.csproj" />
+  </ItemGroup>
+
+</Project>

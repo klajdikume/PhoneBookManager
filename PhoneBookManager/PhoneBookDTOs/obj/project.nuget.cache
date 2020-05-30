@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKLGNppJoSilq9kkPW9jJxFH19Y14ahMOOQ4085bXV4fEg4qi+qgp1WrZWlOwCpvCK3PFxepDMiPzeyYL/kUsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\SmartWork\\PhoneBookManager\\PhoneBookDTOs\\PhoneBookDTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
