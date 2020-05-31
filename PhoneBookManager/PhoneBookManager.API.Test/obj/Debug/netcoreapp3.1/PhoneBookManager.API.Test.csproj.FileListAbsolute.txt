@@ -108,3 +108,8 @@ C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\obj\Deb
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\obj\Debug\netcoreapp3.1\PhoneBookManager.API.Test.dll
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\obj\Debug\netcoreapp3.1\PhoneBookManager.API.Test.pdb
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\obj\Debug\netcoreapp3.1\PhoneBookManager.API.Test.genruntimeconfig.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API.Test\bin\Debug\netcoreapp3.1\PhoneBookManager.API.xml

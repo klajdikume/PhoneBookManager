@@ -131,9 +131,19 @@ namespace PhoneBookBLL.Services
 
         public PhoneBookForReturnDTO Get(int id)
         {
-            var user = _phoneBookRepository.Get(id);
+            var user =  _phoneBookRepository.Get(id);
 
             return UserToPhoneBookConverter(user);
         }
+
+        public PhoneBookForReturnDTO AddNumber(PhoneBookToCreateDTO phoneBook)
+        {
+            var user = PhoneBookToUser(phoneBook);
+
+            var createdUser = _phoneBookRepository.AddNumber(user);
+
+            return UserToPhoneBookConverter(createdUser);
+        }
     }
+    
 }

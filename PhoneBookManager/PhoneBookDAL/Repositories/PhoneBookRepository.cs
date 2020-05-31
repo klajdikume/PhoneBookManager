@@ -185,7 +185,45 @@ namespace PhoneBookDAL.Repositories
 
         public User Get(int id)
         {
-            return GetUser(id);
+            return  GetUser(id);
+        }
+
+        public User AddNumber(User user)
+        {
+            // Merr user
+            var userJson = File.ReadAllText(_userJson);
+            var userDB = Newtonsoft.Json.JsonConvert.DeserializeObject<List<User>>(userJson).FirstOrDefault(x => !x.Deleted && x.Id == user.Id);
+
+            if (userDB == null)
+            {
+              
+                return null;
+            }
+
+            // Liste me numrat per ate user
+            var userTypeJson = File.ReadAllText(_numberJson);
+            var usertypes = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Number>>(userTypeJson).ToList();
+
+            int userTypesId = usertypes.Count() + 1;
+
+            var userTypesFromDTO = user.Numbers?.ToList().Select(x => new Number
+            {
+                Id = userTypesId++,
+                UserNumber = x.UserNumber,
+                IdType = x.IdType,
+                Deleted = false,
+                IdUser = userDB.Id
+            }).ToList();
+
+            // Shto numrin ne listen e userTypes relation
+            usertypes.AddRange(userTypesFromDTO);
+
+            // Shkruaji ne file
+            string outputUserType = Newtonsoft.Json.JsonConvert.SerializeObject(usertypes, Newtonsoft.Json.Formatting.Indented);
+            File.WriteAllText(_numberJson, outputUserType);
+
+            // Merr userin me numrin e ri
+            return GetUser(user.Id);
         }
 
     }

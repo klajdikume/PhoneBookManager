@@ -39,5 +39,12 @@
             <param name="id">The ID of the desired user</param>
             <returns>an user entity with a list of numbers</returns>
         </member>
+        <member name="M:PhoneBookManager.API.Controllers.PhoneBookController.AddNumber(PhoneBookDTOs.DTO.PhoneBookToCreateDTO)">
+            <summary>
+            Add new number in Phone Book
+            </summary>
+            <param> Phone Book Entity </param>
+            <returns> Created Phone Book </returns>
+        </member>
     </members>
 </doc>

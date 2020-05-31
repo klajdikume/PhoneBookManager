@@ -20,6 +20,7 @@ namespace PhoneBookManager.API.Controllers
             _phoneBookService = phoneBookService;
         }
 
+
         /// <summary>
         /// Retrieve a list of phonebooks
         /// </summary>
@@ -89,6 +90,19 @@ namespace PhoneBookManager.API.Controllers
         public ActionResult<PhoneBookForReturnDTO> Get(int id)
         {
             var result = _phoneBookService.Get(id);
+
+            return result;
+        }
+
+        /// <summary>
+        /// Add new number in Phone Book
+        /// </summary>
+        /// <param> Phone Book Entity </param>
+        /// <returns> Created Phone Book </returns>
+        [HttpPost("AddNumber")]
+        public PhoneBookForReturnDTO AddNumber([FromBody] PhoneBookToCreateDTO phoneBook)
+        {
+            var result = _phoneBookService.AddNumber(phoneBook);
 
             return result;
         }

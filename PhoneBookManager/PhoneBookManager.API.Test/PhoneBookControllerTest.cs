@@ -43,5 +43,50 @@ namespace PhoneBookManager.API.Test
 
         }
 
+        [Fact]
+        public void AddPhoneBookTest()
+        {
+
+            Random ran = new Random();
+
+            var listWithNumbers = new List<NumberToCreateDTO>()
+            {
+                new NumberToCreateDTO{ Id= ran.Next(100,199), Number ="06868685", TypeId="1"},
+                new NumberToCreateDTO{ Id= ran.Next(100,199), Number ="06867777", TypeId="2"}
+            };
+            //arrange
+            var phoneBook = new PhoneBookToCreateDTO()
+            {
+
+                Id = ran.Next(5, 100),
+                Firstname = "TestName",
+                Lastname = "TestLastName",
+                NumberInfo = listWithNumbers
+
+            };
+
+
+            var createdResponse = _controller.Post(phoneBook);
+
+            _controller.ModelState.AddModelError("Id", "Id is a required field");
+
+            //assert
+            Assert.IsType<PhoneBookForReturnDTO>(createdResponse);
+
+            var item = createdResponse as PhoneBookForReturnDTO;
+
+            Assert.Equal(phoneBook.Id, item.Id);
+            Assert.Equal(phoneBook.Firstname, item.Firstname);
+            Assert.Equal(phoneBook.Lastname, item.Lastname);
+            Assert.Equal(phoneBook.NumberInfo.ToString(), item.NumberInfo.ToString());
+
+            
+
+
+
+        }
+
+     
+
     }
 }

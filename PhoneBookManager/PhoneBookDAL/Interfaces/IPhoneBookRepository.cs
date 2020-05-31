@@ -13,5 +13,6 @@ namespace PhoneBookDAL.Interfaces
         bool Delete(int id);
         User Put(User user);
         User Get(int id);
+        User AddNumber(User user);
     }
 }

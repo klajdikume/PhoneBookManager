@@ -12,6 +12,7 @@ namespace PhoneBookBLL.Interfaces
         bool Delete(int id);
         IEnumerable<PhoneBookForReturnDTO> GetAllOrderedBy(bool orderByFirstName, bool asc);
         PhoneBookForReturnDTO Get(int id);
+        PhoneBookForReturnDTO AddNumber(PhoneBookToCreateDTO phoneBook);
         PhoneBookForReturnDTO Put(PhoneBookToCreateDTO phoneBook);
     }
 }
