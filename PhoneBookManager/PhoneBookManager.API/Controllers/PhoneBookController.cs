@@ -20,15 +20,27 @@ namespace PhoneBookManager.API.Controllers
             _phoneBookService = phoneBookService;
         }
 
+        //[HttpGet]
+        //public List<PhoneBookForReturnDTO> Get()
+        //{
+        //    bool orderByFirstName = true;
+        //    bool asc = true;
+
+        //    var result =  _phoneBookService.GetAllOrderedBy(orderByFirstName, asc).ToList();
+
+        //    //return Ok();
+        //    return result;
+        //}
+
         [HttpGet]
-        public List<PhoneBookForReturnDTO> Get()
+        public ActionResult<IEnumerable<PhoneBookForReturnDTO>> Get()
         {
             bool orderByFirstName = true;
             bool asc = true;
 
-            var result =  _phoneBookService.GetAllOrderedBy(orderByFirstName, asc).ToList();
+            var result = _phoneBookService.GetAllOrderedBy(orderByFirstName, asc).ToList();
 
-            return result;
+            return Ok(result);
         }
 
         [HttpPost]

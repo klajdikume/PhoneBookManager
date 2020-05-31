@@ -11,7 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookDAL", "PhoneBookDA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookBLL", "PhoneBookBLL\PhoneBookBLL.csproj", "{DFC2B314-D804-4FDF-BB14-D87E60FD8AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookManager.API", "PhoneBookManager.API\PhoneBookManager.API.csproj", "{C874378F-2603-4331-93B9-B22991EED38E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookManager.API", "PhoneBookManager.API\PhoneBookManager.API.csproj", "{C874378F-2603-4331-93B9-B22991EED38E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AB9FF83-0A5D-4E64-A556-E9EC8320FD35}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookManager.API.Test", "PhoneBookManager.API.Test\PhoneBookManager.API.Test.csproj", "{77658CCC-CD78-40EC-8A46-8FFD7B3E6E7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +46,10 @@ Global
 		{C874378F-2603-4331-93B9-B22991EED38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C874378F-2603-4331-93B9-B22991EED38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C874378F-2603-4331-93B9-B22991EED38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77658CCC-CD78-40EC-8A46-8FFD7B3E6E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77658CCC-CD78-40EC-8A46-8FFD7B3E6E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77658CCC-CD78-40EC-8A46-8FFD7B3E6E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77658CCC-CD78-40EC-8A46-8FFD7B3E6E7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

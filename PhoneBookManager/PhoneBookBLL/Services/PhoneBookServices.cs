@@ -19,6 +19,9 @@ namespace PhoneBookBLL.Services
             _phoneBookRepository = phoneBookRepository;
         }
 
+        public PhoneBookServices()
+        {
+        }
 
         public PhoneBookForReturnDTO Post(PhoneBookToCreateDTO phoneBook)
         {
