@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ttdi4PK7zDwBPR3YzZIEtNtytB4fLojqjkc5WIhk2f/J8gLfXOiRWULXymjr5CDlR6WGRejXl6qT/EWRcHOQ4w==",
+  "dgSpecHash": "UGEC8oUTLMNg3RFtbKyZ11QWRbPoT8bcqdD2MowhjDVJqVZDWEdAkTm3ySF5bKBx0qroz2bcz9YYzjwxnOxztg==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\SmartWork\\PhoneBookManager\\PhoneBookManager.API\\PhoneBookManager.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

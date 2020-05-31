@@ -19,8 +19,6 @@ C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\bin\Debug\ne
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.csprojAssemblyReference.cache
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.AssemblyInfoInputs.cache
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.AssemblyInfo.cs
-C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.RazorTargetAssemblyInfo.cache
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.csproj.CopyComplete
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\staticwebassets\PhoneBookManager.API.StaticWebAssets.Manifest.cache
@@ -28,3 +26,11 @@ C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\ne
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.dll
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.pdb
 C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.genruntimeconfig.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\bin\Debug\netcoreapp3.1\PhoneBookManager.API.xml
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\SmartWork\PhoneBookManager\PhoneBookManager.API\obj\Debug\netcoreapp3.1\PhoneBookManager.API.MvcApplicationPartsAssemblyInfo.cache

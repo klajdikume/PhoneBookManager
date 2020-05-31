@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PhoneBookManager.API</name>
+    </assembly>
+    <members>
+        <member name="M:PhoneBookManager.API.Controllers.PhoneBookController.Get">
+            <summary>
+            Retrieve a list of phonebooks
+            </summary>
+            <param>No parameters</param>
+            <returns>Return a list of ordered phonebooks</returns>
+        </member>
+        <member name="M:PhoneBookManager.API.Controllers.PhoneBookController.Post(PhoneBookDTOs.DTO.PhoneBookToCreateDTO)">
+            <summary>
+            Add a new phonebook
+            </summary>
+            <param>Http request body contains input data for a phonebook</param>
+            <returns>Return a list with phonebooks</returns>
+        </member>
+        <member name="M:PhoneBookManager.API.Controllers.PhoneBookController.Delete(System.Int32)">
+            <summary>
+            Delete a PhoneBook
+            </summary>
+            <param name="id">The ID of the desired user</param>
+            <returns>Return true if deleted property was set to true succesfully</returns>
+        </member>
+        <member name="M:PhoneBookManager.API.Controllers.PhoneBookController.Put(System.Int32,PhoneBookDTOs.DTO.PhoneBookToCreateDTO)">
+            <summary>
+            Modify PhoneBook
+            </summary>
+            <param name="id">The ID of the desired user</param>
+            <returns>Result of modified user</returns>
+        </member>
+        <member name="M:PhoneBookManager.API.Controllers.PhoneBookController.Get(System.Int32)">
+            <summary>
+            Retrieve the phoneBook by their ID.
+            </summary>
+            <param name="id">The ID of the desired user</param>
+            <returns>an user entity with a list of numbers</returns>
+        </member>
+    </members>
+</doc>
